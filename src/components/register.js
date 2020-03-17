@@ -1,4 +1,4 @@
-import React, { Component} from 'react';
+ import React, { Component} from 'react';
 import { submitRegister } from '../actions/authActions';
 import { connect } from 'react-redux';
 import { Col, Form, FormGroup, FormControl, ControlLabel, Button } from 'react-bootstrap';
